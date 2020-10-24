@@ -1,8 +1,8 @@
 ### ⚡ Label
 
- `云计算` / `区块链` / `程序开发🐶`  /
+ `分布式方向` / `云计算` / `区块链` / `程序开发🐶`  /
 
- `Docker🐋` / `Kubernetes🚢` / `FISCO BCOS 🔮` / `DevOps🛠` / `Python🐍` /
+ `Docker🐋` / `Kubernetes🚢` / `FISCO BCOS🔮` / `DevOps🛠` / `Python🐍` /
 
  `拾火柴精神探索者🔥` / `Open Source Developer💕` /
 
