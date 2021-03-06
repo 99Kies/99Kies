@@ -2,11 +2,11 @@
 
  `分布式方向` / `云计算` / `区块链` / `程序开发🐶`  /
 
- `Docker🐋` / `Kubernetes🚢` / `FISCO BCOS🔮` / `DevOps🛠` / `Python🐍` /
+ `Golang` / `Python🐍` / `Docker🐋` / `Kubernetes🚢` / `FISCO BCOS🔮` / `Substrate` /
 
  `拾火柴精神探索者🔥` / `Open Source Developer💕` /
 
-
+yanshu
 ---
 **欢迎通过以下方式了解我**
 
