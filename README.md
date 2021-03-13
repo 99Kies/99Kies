@@ -6,7 +6,6 @@
 
  `拾火柴精神探索者🔥` / `Open Source Developer💕` /
 
-yanshu
 ---
 **欢迎通过以下方式了解我**
 
