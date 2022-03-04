@@ -9,9 +9,8 @@
 ![snake gif](./images/snake.svg)
 
 <h1></h1>
+<br/>
 
-
----
 **欢迎通过以下方式了解我**
 
 > 🥇**Blog:** https://huifeng.blog.csdn.net/
@@ -31,7 +30,8 @@
 
 - ETH : 0x00000d1546770a69D202f4C591633c607B6Bd312
 
----
+<h1></h1>
+<br/>
 
-[![99Kies's github stats](https://github-readme-stats.vercel.app/api?username=99kies&show_icons=true)](https://blog.csdn.net/qq_19381989)
+[![99Kies's github stats](https://github-readme-stats.vercel.app/api?username=99kies&theme=radical&show_icons=true)](https://blog.csdn.net/qq_19381989)
 
